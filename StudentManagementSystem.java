@@ -4,7 +4,7 @@ import java.util.*;
 class Student {
     int id;
     String name;
-    double grade;
+    double grade; 
 
     Student(int id, String name, double grade) {
         this.id = id;
@@ -163,3 +163,4 @@ public class StudentManagementSystem {
         sc.close();
     }
 }
+
