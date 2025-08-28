@@ -2,7 +2,7 @@ package task;
 import java.util.*;
 
 class Student {
-    int id;
+    int id; 
     String name;
     double grade; 
 
@@ -163,4 +163,5 @@ public class StudentManagementSystem {
         sc.close();
     }
 }
+
 
